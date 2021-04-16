@@ -1,0 +1,12 @@
+{
+  "name": "test-image-editor",
+  "displayName": "test-image-editor",
+  "expo": {
+    "name": "test-image-editor",
+    "slug": "test-image-editor",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
